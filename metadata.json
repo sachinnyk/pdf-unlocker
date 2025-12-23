@@ -1,0 +1,5 @@
+{
+  "name": "PDF Unlocker Pro",
+  "description": "A secure, 100% client-side tool to remove passwords from PDF files by re-rendering them. No files are ever sent to a server.",
+  "requestFramePermissions": []
+}
